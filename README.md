@@ -1,9 +1,12 @@
-# For Support join here [MoviezOnlySupport](https://telegram.dog/moviezonlysupport)
-# Working example group [Leech Here](https://telegram.dog/leechtorrentmoviesonly)
+## For Support join here [MoviezOnlySupport](https://telegram.dog/moviezonlysupport)
+## Working example group [Leech Here](https://telegram.dog/leechtorrentmoviesonly)
 
 # Telegram Torrent Leecher 🔥🤖
 
-A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
+### A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
+
+### This is a leech to STREAM repo!
+
 
 # Benefits :-
     ✓ Telegram File mirrorring to cloud along with its unzipping, unrar and untar
@@ -23,12 +26,38 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prgofficial/TorrentLeech-GDriVe)
 
 
+### The Legacy Way
+
+Simply clone the repository and run the main file:
+
+```sh
+git clone https://github.com/SpEcHiDe/PublicLeech.git
+cd PublicLeech
+virtualenv -p /usr/bin/python3 venv
+. ./venv/bin/activate
+pip install -r requirements.txt
+# <Create config.py appropriately>
+python3 -m tobrot
+```
+
+### an example config.py 👇
+```py
+from tobrot.sample_config import Config
+
+class Config(Config):
+  TG_BOT_TOKEN = ""
+  APP_ID = 6
+  API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
+  AUTH_CHANNEL = -1001234567890
+```
+
+
 ### YOU NEED UNLIMITED TEAM/SHARE DRIVE IN ORDER TO USE THE GDRIVE FUNCIONS Flawlessly (normal GDRIVE has 15 gb of storage only)
 
 ##### Set Rclone
 
 1. Download Rclone from Here > [DOWNLOAD](https://rclone.org/downloads/)
-2. Extract and run cmd from the Extracted folder.
+2. Extract the downloaded zip file and run cmd(hold shift and right click) from the Extracted folder.
 3. RUN rclone config and follow the onscreen instructions!
 4. If done Correctly, you'll get some thing like this in the cmd ;
 
