@@ -1,4 +1,5 @@
 ## For Support join here [SK4S](https://telegram.dog/sk4s_allchannel)
+
 ## Working example group [Leech Here](https://telegram.dog/spcide)
 
 # Telegram Torrent Leecher 🔥🤖
@@ -17,16 +18,10 @@
     ✓ Custom file name
     ✓ Custom commands
 
-### Credit goes to SpEcHiDe for his [Publicleech](https://github.com/SpEcHiDe/PublicLeech) repo & GautamKumar for his [repo](https://github.com/sachink4s/Leech-Gdrive)
+### Credit goes to SpEcHiDe for his [Publicleech](https://github.com/SpEcHiDe/PublicLeech) repo & SK4S for his [repo](https://github.com/sachink4s/Leech-Gdrive)
 
 
 ## Installing
-
-
-### The Easy Way
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sachink4s/Leech-GDrive)
-
 
 ### HEROKU SUPPORT REMOVED
 
@@ -37,7 +32,7 @@
 Simply clone the repository and run the main file:
 
 ```sh
-git clone https://github.com/SpEcHiDe/PublicLeech.git
+git clone https://github.com/sachink4s/PublicLeech.git
 cd PublicLeech
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
