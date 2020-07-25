@@ -17,7 +17,7 @@
     ✓ Custom file name
     ✓ Custom commands
 
-### Credit goes to SpEcHiDe for his [Publicleech](https://github.com/SpEcHiDe/PublicLeech) repo & GautamKumar for his [repo](https://github.com/gautamajay52/TorrentLeech-Gdrive)
+### Credit goes to SpEcHiDe for his [Publicleech](https://github.com/SpEcHiDe/PublicLeech) repo & GautamKumar for his [repo](https://github.com/sachink4s/Leech-Gdrive)
 
 
 ## Installing
