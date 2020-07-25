@@ -1,5 +1,5 @@
-## For Support join here [MoviezOnlySupport](https://telegram.dog/moviezonlysupport)
-## Working example group [Leech Here](https://telegram.dog/leechtorrentmoviesonly)
+## For Support join here [SK4S](https://telegram.dog/sk4s_allchannel)
+## Working example group [Leech Here](https://telegram.dog/spcide)
 
 # Telegram Torrent Leecher 🔥🤖
 
